@@ -9,6 +9,6 @@ entries:
     name: test2
     type: application
     urls:
-    - https://github.com/Andreea2320/mychartrepo.git/test2-0.1.0.tgz
+    - https://Andreea2320.github.io/mychartrepo/packages/test2-0.1.0.tgz
     version: 0.1.0
 generated: "2025-10-28T11:59:59.445624329Z"
